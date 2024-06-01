@@ -1,9 +1,9 @@
 # Prodigy_ML_Task-3
 
-Linkedin Post link:
-
-
 Prodigy Machine Learnining Task-3:
+
+Linkedin Post link:
+https://www.linkedin.com/feed/update/urn:li:activity:7202338069167968256/
 
 Dogs vs. Cats Image Classification
 This project demonstrates a basic image classification pipeline using the popular "Dogs vs. Cats" dataset. The goal is to classify images as either containing a dog or a cat. The project includes data preprocessing, visualization, model training, evaluation, and generating submission predictions.
